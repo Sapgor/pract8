@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\pract8\pract8\bin\Debug\pract8.exe.config
+C:\Users\Пользователь\source\repos\pract8\pract8\bin\Debug\pract8.exe
+C:\Users\Пользователь\source\repos\pract8\pract8\bin\Debug\pract8.pdb
+C:\Users\Пользователь\source\repos\pract8\pract8\obj\Debug\pract8.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\pract8\pract8\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\pract8\pract8\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\pract8\pract8\obj\Debug\pract8_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\pract8\pract8\obj\Debug\pract8_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\pract8\pract8\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\pract8\pract8\obj\Debug\pract8.g.resources
+C:\Users\Пользователь\source\repos\pract8\pract8\obj\Debug\pract8.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\pract8\pract8\obj\Debug\pract8.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\pract8\pract8\obj\Debug\pract8.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\pract8\pract8\obj\Debug\pract8.exe
+C:\Users\Пользователь\source\repos\pract8\pract8\obj\Debug\pract8.pdb
+C:\Users\Пользователь\source\repos\pract8\pract8\obj\Debug\GeneratedInternalTypeHelper.g.cs
